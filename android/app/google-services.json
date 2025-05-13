@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266297276876",
+    "project_id": "caredb",
+    "storage_bucket": "caredb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266297276876:android:636f7be3004e2fcb60c569",
+        "android_client_info": {
+          "package_name": "com.example.caretutors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkMGLY76fBQtcEbXYGUkXQnULNxKShGmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
